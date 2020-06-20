@@ -9,7 +9,7 @@ Now that I've been using mixins for a while, I thought I'd write a post showing 
 
 The first time it really hit me was when I realized I could use a mixin to minimize my code for working with *flexbox*...
 
-###Example 1: Flexbox
+### Example 1: Flexbox
 
 I found myself writing this multiple time throughout all of my projects:
 ```css
@@ -36,7 +36,7 @@ calling the four most common rules in flexbox becomes this...
 }
 ```
 
-###Example 2: Fade
+### Example 2: Fade
 
 Another habit I found myself developing was importing all of jQuery only to find myself using just fadeIn and fadeOut in my projects. This mixin allows a modular way to fade in and out elements using only CSS...
 ```scss
@@ -63,7 +63,7 @@ Now animating an element with fade in simply looks like this...
 }
 ```
 
-###Example 3: Fonts
+### Example 3: Fonts
 I've found it useful to use the following mixin when I'm using a font in different areas across a project, but at a range of sizes, weights, and spacings. 
 ```scss
 @mixin font($style, $weight, $height, $spacing){
@@ -93,6 +93,6 @@ This can even be expanded a little more if you're using multiple fonts...
 ```
 
 
-###remember, 
+### remember, 
 *I'll be updating this article often as I write new and even better mixins!*
 
