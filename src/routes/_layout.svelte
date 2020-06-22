@@ -24,6 +24,10 @@
     display: flex;
     flex-direction: column;
   }
+  i{
+    font-size:1.5rem;
+    margin-bottom:1rem;
+  }
 
   footer {
     font-size: 1em;
@@ -44,6 +48,11 @@
   </main>
 
   <footer>
+    <div>
+      <a href="https://github.com/stordahl"><i class="fa fa-github" aria-hidden="true"></i></a>
+      <a href="https://twitter.com/queeryselector"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+      <a href="https://instagram.com/queeryselector"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+    </div>
     <span>
       &copy; {new Date().getFullYear()} Jacob Stordahl.
       Powered by <a href="https://sapper.svelte.dev" target="_blank">Sapper</a>.
