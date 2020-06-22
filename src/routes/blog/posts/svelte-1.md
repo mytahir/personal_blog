@@ -3,7 +3,7 @@ title: Learning Svelte #1 | why you should too
 date: "2020-06-21T12:47:00.000Z"
 ---
 
-After spending the last month scared of diving into a javascript framework, this week I found out about [Svelte.js](https://svelte.dev). I'd like to tell you why I think it's a great option for beginner javascript developers who are new to component/ module based javascript development. 
+After spending the last month scared of diving into a javascript framework, this week I found out about Svelte.js. I'd like to tell you why I think it's a great option for beginner javascript developers who are new to component/ module based javascript development. 
 <!-- more -->
 After spending the last month scared of diving into a javascript framework, this week I found out about [Svelte.js](https://svelte.dev). I'd like to tell you why I think it's a great option for beginner javascript developers who are new to component/ module based javascript development. 
 
