@@ -1,11 +1,13 @@
 ---
 title: Tips for learning SCSS/ sass (as a beginner) 
-date: "2019-05-12T08:38:00.000Z"
+date: "2020-05-12T08:38:00.000Z"
 ---
 
 I've been learning and working with SCSS/ sass for about 3 months in personal and professional projects. If you're not familiar, SCSS and sass are CSS pre-processors; at a basic level these are languages that get compiled and formatted into regular CSS that can be read by a web browser. 
 
 <!-- more -->
+I've been learning and working with SCSS/ sass for about 3 months in personal and professional projects. If you're not familiar, SCSS and sass are CSS pre-processors; at a basic level these are languages that get compiled and formatted into regular CSS that can be read by a web browser.
+
 ![Sass Logo](https://images.iambacon.co.uk/blog/sass.png)
 
 The advent of this technology took the very tedious task of writing CSS and made it a more modern and far more efficient process. Pre-processors allow things like variables, partials, nesting and mixins to be used in writing CSS styles. Not only does this cut down on code, it also enhances the developer experience a great deal (IMHO).

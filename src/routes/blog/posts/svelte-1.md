@@ -1,8 +1,10 @@
 ---
 title: Learning Svelte #1 | why you should too 
-date: "2020-06-21T024:00:00.000Z"
+date: "2020-06-21T24:47:00.000Z"
 ---
 
+After spending the last month scared of diving into a javascript framework, this week I found out about [Svelte.js](https://svelte.dev). I'd like to tell you why I think it's a great option for beginner javascript developers who are new to component/ module based javascript development. 
+<!-- more -->
 After spending the last month scared of diving into a javascript framework, this week I found out about [Svelte.js](https://svelte.dev). I'd like to tell you why I think it's a great option for beginner javascript developers who are new to component/ module based javascript development. 
 
 If you're not familiar with Svelte, it works a little differently than other frameworks like React. Library based frameworks like React do a lot of the heavy lifting in the clients browsers as they receive it. Svelte, however, is a *compiler* **not a library**. This means that when you build your app, Svelte will take the project and convert it to plain HTML & vanilla JS. This means that the client only sees optimized (and mostly static) code, in much smaller bundles than a library based framework. This blog for example is built using Svelte and its SSG counter part [Sapper](sapper.svelte.dev). We'll get into Sapper in a later post, but just know, Sapper brings a lot to Svelte; things like routing, SSR, code splitting, and more! This blog is hosted on Github, which is then built and served on Netlify's CDN. This setup make continuous deployment a breeze, and lets me have a super fast personal site. 

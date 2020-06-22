@@ -1,10 +1,12 @@
 ---
 title: Examples of Sass/ SCSS Mixins 
-date: "2019-05-25T07:38:00.000Z"
+date: "2020-05-25T07:38:00.000Z"
 ---
 
 when I first started learning Sass, I had a hard time conceptualizing what a mixin was and what their uses were in the css I was writing. 
 <!-- more -->
+when I first started learning Sass, I had a hard time conceptualizing what a mixin was and what their uses were in the css I was writing. 
+
 Now that I've been using mixins for a while, I thought I'd write a post showing some examples of really nice use cases for mixins. 
 
 The first time it really hit me was when I realized I could use a mixin to minimize my code for working with *flexbox*...
