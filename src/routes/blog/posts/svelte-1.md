@@ -1,5 +1,5 @@
 ---
-title: Learning Svelte #1 | why you should too 
+title: Learning Svelte 1 | why you should too 
 date: "2020-06-21T12:47:00.000Z"
 ---
 
