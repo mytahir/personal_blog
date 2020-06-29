@@ -2,7 +2,7 @@
 title: Learning Svelte 2 | data, templating & styling
 date: "2020-06-29T12:47:00.000Z"
 ---
-In this second article in a series on [Svelte.js](https://svelte.dev) we're going to cover the very basics of dynamic data in svelte, how to populate our template with said data, and how to style it all. 
+In this second article in a series on Svelte.js we're going to cover the very basics of dynamic data in svelte, how to populate our template with said data, and how to style it all. 
 <!-- more -->
 In this second article in a series on [Svelte.js](https://svelte.dev) we're going to cover the very basics of dynamic data in svelte, how to populate our template with said data, and how to style it all. First, lets look at the basics of how our data interacts with our template.
 
